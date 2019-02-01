@@ -1,0 +1,82 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.div-card {
+  background-image: url("https://scontent.ftun1-1.fna.fbcdn.net/v/t1.15752-9/45452582_2389493377807503_2686506935615750144_n.jpg?_nc_cat=104&_nc_ht=scontent.ftun1-1.fna&oh=fcd8c38063beed9bdc1164c77c8d6b6a&oe=5C6EEB92");
+  background-size: cover;
+  width: 400px;
+  height: 280px;
+  border-radius: 10px;
+}
+.title {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  margin-right: 30px;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.div-image1 {
+  background-image: url("https://scontent.ftun1-1.fna.fbcdn.net/v/t1.15752-9/45593385_251802722355470_125865760366002176_n.png?_nc_cat=100&_nc_ht=scontent.ftun1-1.fna&oh=538a708f4893316305bf9298af561f11&oe=5C8589A8");
+  background-size: cover;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-top: -10px;
+}
+.div-number {
+  display: flex;
+  margin-top: 10px;
+  font-size: 25px;
+  background-color: rgb(255, 215, 0, 0.4);
+}
+.span-number {
+  color: gold;
+}
+.div-date {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+.div-image2 {
+  background-image: url("https://scontent.ftun1-1.fna.fbcdn.net/v/t1.15752-9/45555749_344209416329554_4669036209924734976_n.jpg?_nc_cat=111&_nc_ht=scontent.ftun1-1.fna&oh=35fc24cde38ce547e6f7ee74c01b84ab&oe=5C7D024E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 20%;
+  height: 80px;
+  margin-bottom: 0%;
+}
+.div-valid {
+  font-size: 12px;
+  width: 30%;
+}
+.div-form {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+.div-element {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20px;
+}
+.div-holder {
+  display: flex;
+  justify-content: flex-start;
+  color: white;
+}
+.div-input {
+  width: 200px;
+  display: flex;
+  margin: 1%;
+  flex-direction: column;
+  justify-content: center;
+}
+.div-creditcard {
+  display: flex;
+}
+span {
+  width: 30%;
+}
